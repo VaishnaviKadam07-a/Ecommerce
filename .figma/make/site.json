@@ -1,0 +1,10 @@
+{
+  "description": "This responsive e-commerce platform enables users to browse products, manage their accounts, and complete secure transactions, enhancing online shopping convenience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
